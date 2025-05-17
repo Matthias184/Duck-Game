@@ -1,2 +1,2 @@
 # Duck-Game
-ezaz
+Version without installation.
