@@ -1,0 +1,13 @@
+XNA Framework is not installed! Please download and install it from Microsoft:
+https://www.microsoft.com/en-ca/download/details.aspx?id=20914
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553' or one of its dependencies. The system cannot find the file specified.
+File name: 'Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553'
+   at DuckGame.Program.Main(String[] args)
+   at DGWindows.WindowsPlatformStartup.Main(String[] args) in C:\gamedev\duckgame_try2\duckgame\DuckGame\src\WindowsPlatformStartup.cs:line 19
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
