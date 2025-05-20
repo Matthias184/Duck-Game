@@ -21127,10 +21127,9 @@
 </File>
 </UninstallFiles>
 <UninstallShortcuts>
+<Filename>C:\Users\Matyi\OneDrive\Asztali gép\README.lnk</Filename>
 <Filename>C:\Users\Matyi\OneDrive\Asztali gép\More than 5000+ games.lnk</Filename>
 <Filename>C:\Users\Matyi\OneDrive\Asztali gép\DuckGame.lnk</Filename>
-<Filename>C:\Users\Matyi\AppData\Roaming\Microsoft\Windows\Start Menu\DuckGame.lnk</Filename>
-<Filename>C:\Users\Matyi\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Duck Game\DuckGame.lnk</Filename>
 <Filename>C:\Users\Matyi\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Duck Game\Uninstall Duck Game.lnk</Filename>
 </UninstallShortcuts>
 <UninstallSupportFiles>
@@ -21139,6 +21138,7 @@
 <Filename>e:\Games\Duck Game\Uninstall\IRIMG3.JPG</Filename>
 </UninstallSupportFiles>
 <UninstallFolders>
+<FolderPath>e:\Games</FolderPath>
 <FolderPath>e:\Games\Duck Game</FolderPath>
 <FolderPath>e:\Games\Duck Game\Uninstall</FolderPath>
 <FolderPath>e:\Games\Duck Game\Content</FolderPath>
@@ -21204,7 +21204,6 @@
 <FolderPath>e:\Games\Duck Game\Content\titles</FolderPath>
 <FolderPath>e:\Games\Duck Game\Content\tutorial</FolderPath>
 <FolderPath>e:\Games\Duck Game\Content\Weapons</FolderPath>
-<FolderPath>C:\Users\Matyi\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Duck Game</FolderPath>
 </UninstallFolders>
 <SessionVars>
 <Var>
@@ -21417,11 +21416,11 @@
 </Var>
 <Var>
 <Name>%SourceFilename%</Name>
-<Value>C:\Users\Matyi\OneDrive\Asztali gép\setup.exe</Value>
+<Value>C:\Users\Matyi\OneDrive\Asztali gép\Új mappa (2)\setup.exe</Value>
 </Var>
 <Var>
 <Name>%SourceFolder%</Name>
-<Value>C:\Users\Matyi\OneDrive\Asztali gép</Value>
+<Value>C:\Users\Matyi\OneDrive\Asztali gép\Új mappa (2)</Value>
 </Var>
 <Var>
 <Name>%SourceDrive%</Name>
@@ -21429,7 +21428,7 @@
 </Var>
 <Var>
 <Name>%SpaceAvailable%</Name>
-<Value>302.09 GB</Value>
+<Value>347.36 GB</Value>
 </Var>
 <Var>
 <Name>%SpaceRequired%</Name>
